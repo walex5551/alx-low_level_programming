@@ -1,4 +1,4 @@
-# This repository contains `alx` C projects and other low level programming exercices.
+# This repository contains low level programs in C language.
 
 ## File content
 - File: `0-preprocessor`
